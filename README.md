@@ -1,3 +1,6 @@
+# This is my personal website! [check it out here](https://donaldbough.github.io)
+
+
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-freelancer/master/LICENSE)
